@@ -1,0 +1,12 @@
+# 配置文件
+y-threshold: -64 # Y 坐标阈值
+use-custom-spawn: false # 是否启用自定义出生点
+
+# 自定义出生点配置
+custom-spawn:
+  world: "world" # 世界名称
+  x: 0.0 # X 坐标
+  y: 0.0 # Y 坐标
+  z: 0.0 # Z 坐标
+  yaw: 0.0 # Yaw 角度
+  pitch: 0.0 # Pitch 角度
