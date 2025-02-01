@@ -1,0 +1,6 @@
+name: voidreset
+version: '1.0-SNAPSHOT'
+main: voidreset.Voidreset
+api-version: '1.21'
+authors: [ TNTXZ ]
+description: 一个使玩家掉入虚空可以回到出生点的插件
